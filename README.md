@@ -31,7 +31,8 @@ This project sets up a **real-time data pipeline** that:
 ### 1. Clone the repo
 
 ```bash
-git clone [Streaming-real-time-crypto-prices-using-kafka-and-storing-in-Mysql](https://github.com/JoyKimaiyo/Streaming-real-time-crypto-prices-using-kafka-and-storing-in-Mysql)
+git clone https://github.com/JoyKimaiyo/Streaming-real-time-crypto-prices-using-kafka-and-storing-in-Mysql.git
+
 
 cd crypto-streaming
 
